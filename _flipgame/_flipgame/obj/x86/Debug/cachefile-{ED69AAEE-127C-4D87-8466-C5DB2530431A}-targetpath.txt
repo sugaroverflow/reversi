@@ -1,0 +1,7 @@
+Content\Sprites\blacircle2.xnb
+Content\Sprites\hint2.xnb
+Content\Sprites\hintcircle2.xnb
+Content\Sprites\reset2.xnb
+Content\Sprites\whicircle2.xnb
+Content\Sprites\hintblock.xnb
+Content\Sprites\resetblock.xnb

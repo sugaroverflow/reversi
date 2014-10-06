@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Sprites\blacircle2.png</Source>
+      <Name>Sprites\blacircle2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\fatima\documents\visual studio 2010\Projects\_flipgame\_flipgame\_flipgame\bin\x86\Debug\Content\Sprites\blacircle2.xnb</Output>
+      <Time>2013-10-12T18:14:20.3490316-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\hint2.png</Source>
+      <Name>Sprites\hint2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\fatima\documents\visual studio 2010\Projects\_flipgame\_flipgame\_flipgame\bin\x86\Debug\Content\Sprites\hint2.xnb</Output>
+      <Time>2013-10-12T18:14:20.3420312-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\hintcircle2.png</Source>
+      <Name>Sprites\hintcircle2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\fatima\documents\visual studio 2010\Projects\_flipgame\_flipgame\_flipgame\bin\x86\Debug\Content\Sprites\hintcircle2.xnb</Output>
+      <Time>2013-10-12T18:14:20.3430313-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\reset2.png</Source>
+      <Name>Sprites\reset2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\fatima\documents\visual studio 2010\Projects\_flipgame\_flipgame\_flipgame\bin\x86\Debug\Content\Sprites\reset2.xnb</Output>
+      <Time>2013-10-12T18:14:20.3450314-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\whicircle2.png</Source>
+      <Name>Sprites\whicircle2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\fatima\documents\visual studio 2010\Projects\_flipgame\_flipgame\_flipgame\bin\x86\Debug\Content\Sprites\whicircle2.xnb</Output>
+      <Time>2013-10-12T18:14:20.3470315-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\hintblock.png</Source>
+      <Name>Sprites\hintblock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\fatima\documents\visual studio 2010\Projects\_flipgame\_flipgame\_flipgame\bin\x86\Debug\Content\Sprites\hintblock.xnb</Output>
+      <Time>2013-10-12T18:19:59.6724398-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\resetblock.png</Source>
+      <Name>Sprites\resetblock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\fatima\documents\visual studio 2010\Projects\_flipgame\_flipgame\_flipgame\bin\x86\Debug\Content\Sprites\resetblock.xnb</Output>
+      <Time>2013-10-12T18:19:59.6704397-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>c:\users\fatima\documents\visual studio 2010\Projects\_flipgame\_flipgame\_flipgameContent\</RootDirectory>
+      <LoggerRootDirectory>c:\users\fatima\documents\visual studio 2010\Projects\_flipgame\_flipgame\_flipgame\</LoggerRootDirectory>
+      <IntermediateDirectory>c:\users\fatima\documents\visual studio 2010\Projects\_flipgame\_flipgame\_flipgameContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>c:\users\fatima\documents\visual studio 2010\Projects\_flipgame\_flipgame\_flipgame\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-10-12T16:34:55.8880932-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,13 @@
+c:\users\fatima\documents\visual studio 2010\Projects\_flipgame\_flipgame\_flipgame\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\fatima\documents\visual studio 2010\Projects\_flipgame\_flipgame\_flipgame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\fatima\documents\visual studio 2010\Projects\_flipgame\_flipgame\_flipgame\bin\x86\Debug\_flipgame.exe
+c:\users\fatima\documents\visual studio 2010\Projects\_flipgame\_flipgame\_flipgame\bin\x86\Debug\_flipgame.pdb
+c:\users\fatima\documents\visual studio 2010\Projects\_flipgame\_flipgame\_flipgame\obj\x86\Debug\_flipgame.exe
+c:\users\fatima\documents\visual studio 2010\Projects\_flipgame\_flipgame\_flipgame\obj\x86\Debug\_flipgame.pdb
+c:\users\fatima\documents\visual studio 2010\Projects\_flipgame\_flipgame\_flipgame\bin\x86\Debug\Content\Sprites\blacircle2.xnb
+c:\users\fatima\documents\visual studio 2010\Projects\_flipgame\_flipgame\_flipgame\bin\x86\Debug\Content\Sprites\hint2.xnb
+c:\users\fatima\documents\visual studio 2010\Projects\_flipgame\_flipgame\_flipgame\bin\x86\Debug\Content\Sprites\hintcircle2.xnb
+c:\users\fatima\documents\visual studio 2010\Projects\_flipgame\_flipgame\_flipgame\bin\x86\Debug\Content\Sprites\reset2.xnb
+c:\users\fatima\documents\visual studio 2010\Projects\_flipgame\_flipgame\_flipgame\bin\x86\Debug\Content\Sprites\whicircle2.xnb
+c:\users\fatima\documents\visual studio 2010\Projects\_flipgame\_flipgame\_flipgame\bin\x86\Debug\Content\Sprites\hintblock.xnb
+c:\users\fatima\documents\visual studio 2010\Projects\_flipgame\_flipgame\_flipgame\bin\x86\Debug\Content\Sprites\resetblock.xnb
